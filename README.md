@@ -10,4 +10,4 @@ This repository holds the Jupyter Notebook used to clean the data with Python's 
 
 Data Source: https://data.world/jks1995/carolina-data-challenge-crime-data
 
-Authors: Jake Sellinger, Raj Patel
+Authors: Jake Sellinger, [Raj Patel] (https://www.linkedin.com/in/rajspatel/)
